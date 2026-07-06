@@ -35,3 +35,10 @@ Make sure you have Python installed on your system. Tkinter comes bundled with s
 3. Execute the application using the following command:
    ```bash
    python main.py
+   
+<img width="767" height="439" alt="lab equipment success ss" src="https://github.com/user-attachments/assets/e6fca56c-99bd-46a6-ba8e-f1fe41c26244" />
+<img width="768" height="437" alt="lab equipment failed ss" src="https://github.com/user-attachments/assets/d5390ddb-b493-49dc-ae82-6913323f5a9b" />
+<img width="959" height="473" alt="lab equipment ss" src="https://github.com/user-attachments/assets/e2966967-e4dd-41dc-acab-e4e330ec179c" />
+
+
+
